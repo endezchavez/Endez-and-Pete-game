@@ -1,3 +1,5 @@
+//Class that loops through all game objects
+
 package epsoftworks;
 
 import java.awt.Graphics;
