@@ -1,3 +1,5 @@
+//Main class
+
 package epsoftworks;
 
 import java.awt.Canvas;
