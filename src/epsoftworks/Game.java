@@ -1,8 +1,10 @@
 //Main class
+
 //Endez has no mates
 //Hello you cunt.
 //You're a bellend
 //Slut Cunt
+//github sucks ass
 
 package epsoftworks;
 
