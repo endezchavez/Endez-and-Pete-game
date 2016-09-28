@@ -1,5 +1,6 @@
 //Main class
-// Endez has no mates
+//Endez has no mates
+//Hello you cunt.
 
 package epsoftworks;
 
